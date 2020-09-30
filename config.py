@@ -57,3 +57,4 @@ config_options = {
     'production': ProdConfig,
     'test':TestConfig
 }
+engine = create_engine("postgresql+pymysql://postgres:kiprotich@host/kip", pool_pre_ping=True)
