@@ -1,4 +1,3 @@
-:satisfied:
 
 # Flask-Blog
 
